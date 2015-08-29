@@ -1,0 +1,30 @@
+[gettc] Compile solver
+[gettc] Compile checker
+[gettc] Run test cases
+Here are a few failed case for your debugging purposes
+Case 10:
+    Input: <3>
+    Expected: <7>
+    Received: <4>
+Case 12:
+    Input: <6>
+    Expected: <42>
+    Received: <41>
+Case 13:
+    Input: <7>
+    Expected: <43>
+    Received: <40>
+Case 16:
+    Input: <10>
+    Expected: <14>
+    Received: <13>
+Case 19:
+    Input: <74>
+    Expected: <78>
+    Received: <77>
+[gettc] Summary
+30 cases checked, 11 failures, 0 errors
+Failures: 10, 12, 13, 16, 19, 23, 24, 29, 7, 8, 9
+    Total time taken: 163 ms
+    Average time taken: 5 ms
+    Slowest running case: 44 ms (case 21)
